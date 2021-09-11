@@ -1,7 +1,7 @@
 # OPTICA
 
 ## How to install:
-Follow these steps carefully to install optica in your device
+Follow these steps carefully to install optica in your device.
 </br>
 First, Download and install the latest version of python from [python.org](https://www.python.org/downloads/)
 Go to the 'Installation' folder. Then follow these simple steps -
@@ -11,7 +11,7 @@ Go to the 'Installation' folder. Then follow these simple steps -
 <li>Double click the file called "installer.bat" and wait till the installation process is finished.</li>
 </ol>
 </br>
-Now you are done.....Come back from the 'Installation' folder, open up the file called ___Artificial_Intelligence.py___ and enjoy... :)
+Now you are done.....Come back from the 'Installation' folder, open up the file called `Artificial_Intelligence.py` and enjoy... :)
 </br>
 
 If you are having any problem, feel free to contact me:
